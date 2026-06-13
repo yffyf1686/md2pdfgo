@@ -1,7 +1,6 @@
-# md2pdf — Foliate
+# md2pdf
 
-A full-stack **Markdown → PDF** converter with a warm, editorial interface
-("Foliate"). Write Markdown, watch a live preview on a cream "paper" sheet, and
+A full-stack **Markdown → PDF** converter. Write Markdown, watch a live preview and 
 download a clean, print-ready PDF that matches what you see.
 
 - **Backend:** Go — [goldmark](https://github.com/yuin/goldmark) renders
